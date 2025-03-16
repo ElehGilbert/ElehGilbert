@@ -42,8 +42,8 @@ Welcome to my GitHub—a space where creativity meets development! 🚀
 
 ## 🌐 Find Me Online  
 <p align="center">
-  <a href="https://linkedin.com/in/elehgilbert"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://yourportfolio.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
+  <a href="https://linkedin.com/elehgilbert"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://dreamsiteco.com"><img src="https://img.shields.io/badge/Portfolio-%2312100E.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
   <a href="https://github.com/ElehGilbert"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
