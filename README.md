@@ -24,7 +24,7 @@ Welcome to my GitHub—a space where creativity meets development! 🚀
 
 ---
 
-## ✨ Animated Projects Showcase
+## ✨ Projects Showcase
 - 🌟 **[GameChanger](https://github.com/ElehGilbert/gamechanger)**  
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Project 1 Animation" width="400px">
 
