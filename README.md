@@ -15,7 +15,7 @@ I believe in the power of **collaboration and creativity**—when minds connect,
 - ASP.NET (Web API, Identity, EF Core)
 - HTML, CSS
 - CMS: WordPress, Shopify
-- Chatbot Frameworks
+- Chatbot Frameworks(C# ASP)
 - Git & GitHub for version control
 
 ##  Exploring More
