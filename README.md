@@ -1,5 +1,3 @@
-# 👋 Hello, I'm Eleh Gilbert
-
 ##  What I Do
 - 🧱 **Backend Development** using ASP.NET and SQL Server
 - 🌐 **Website Creation** and optimization
