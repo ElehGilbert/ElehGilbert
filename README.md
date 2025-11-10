@@ -1,5 +1,5 @@
 ##  What I Do
-- 🧱 **Backend Development** using ASP.NET and SQL Server
+- 🧱 **Backend Development** using ASP.NET, Minimal API, Postgres and SQL Server
 - 🌐 **Website Creation** and optimization
 - 🤖 **Chatbot Development** for enhanced user engagement
 - 🛠️ Working with **CMS Platforms** like WordPress and Shopify
