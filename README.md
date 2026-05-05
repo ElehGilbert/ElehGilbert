@@ -1,5 +1,5 @@
 ##  What I Do
--  **Building Solutions** using ASP.NET, Minimal API, SpringBoot Postgres and SQL Server and anything that gets the job done!
+-  **Building Solutions** using ASP.NET, Minimal API, SpringBoot, Postgres and SQL Server and anything that gets the job done!
 -  **Website Creation** and optimization
 - **Chatbot Development** 
 -  Working with **CMS Platforms** like WordPress and Shopify
