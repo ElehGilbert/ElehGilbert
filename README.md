@@ -5,7 +5,7 @@
 -  Working with **CMS Platforms** like WordPress and Shopify
 
 ## Philosophy
-I believe in the power of **collaboration and creativity**—when minds connect, possibilities expand.
+I believe in the power of **collaboration and creativity** - when minds connect, possibilities expand.
 
 
 ##  Let’s Connect!
